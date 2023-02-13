@@ -1,1 +1,2 @@
 # Text-Game-Assembly
+# This is a text-based game played by selecting from numbered options, created using x86 MASM by Tony Maida, Thomas Chor, and Mark Alejandro as an assembly class final group project. 
